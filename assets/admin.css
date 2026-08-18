@@ -1,0 +1,13 @@
+.shoptic-wc-wrap .shoptic-wc-card {
+	background: #fff;
+	border: 1px solid #dcdcde;
+	border-radius: 8px;
+	max-width: 720px;
+	padding: 24px 28px;
+	margin-top: 12px;
+}
+.shoptic-wc-card h2 { margin-top: 0; }
+.shoptic-wc-status { font-weight: 600; display: flex; align-items: center; gap: 6px; }
+.shoptic-wc-status--ok { color: #00a32a; }
+.shoptic-wc-steps li, .shoptic-wc-reqs li { margin-bottom: 6px; }
+.shoptic-wc-privacy { color: #646970; font-size: 12px; margin-top: 16px; }
